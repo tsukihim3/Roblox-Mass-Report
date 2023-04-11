@@ -12,7 +12,7 @@ reasonDescriptions = {
 	4: ["Dating"],
 	5: ["Exploiting, Cheating, Scamming"],
 	6: ["Account Theft - Phishing, Hacking, Trading"],
-	7: ["Inappropriate Content - Place, Image, Model"],
+	7: ["The roblox user "Fate" (user id : 105841) has an inappropriate username. The word fate can be an acronym that contains the F word, and is therefore inappropriate for Roblox. The activity of this user also suggests it has been compromised or password guessed."],
 	8: ["Real Life Threats & Suicide Threats"],
 	9: ["Other rule violation"]
 }
